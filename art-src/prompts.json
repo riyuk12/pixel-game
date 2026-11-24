@@ -1,0 +1,178 @@
+[
+  {
+    "id": "tex_sandstone",
+    "kind": "tile",
+    "prompt": "A seamless tileable texture of a red Rajasthani sandstone wall built from large rectangular ashlar blocks laid in running bond, warm rose-red and terracotta tones, subtle weathering and fine chisel marks, thin dusty mortar lines. Stylized hand-painted video game texture with clear, readable shapes. Flat front-on orthographic view filling the entire frame edge to edge, evenly lit, no cast shadows, no perspective, no vignette. No text, no border, no watermark."
+  },
+  {
+    "id": "tex_plaster_blue",
+    "kind": "tile",
+    "prompt": "A seamless tileable texture of a weathered lime-plaster wall washed in indigo blue, like the blue city of Jodhpur: soft mottled blue tones, faint hairline cracks and a few small patches where pale plaster shows through. Stylized hand-painted video game texture with clear, readable shapes. Flat front-on orthographic view filling the entire frame edge to edge, evenly lit, no cast shadows, no perspective, no vignette. No text, no border, no watermark."
+  },
+  {
+    "id": "tex_plaster_ochre",
+    "kind": "tile",
+    "prompt": "A seamless tileable texture of a sun-faded lime-plaster wall in warm ochre and cream, gentle mottling, a few hairline cracks and dust stains. Stylized hand-painted video game texture with clear, readable shapes. Flat front-on orthographic view filling the entire frame edge to edge, evenly lit, no cast shadows, no perspective, no vignette. No text, no border, no watermark."
+  },
+  {
+    "id": "tex_tiles",
+    "kind": "tile",
+    "prompt": "A seamless tileable texture of Persian Safavid glazed ceramic tilework: an interlocking geometric eight-point star pattern in turquoise, cobalt blue and white with small touches of saffron yellow, separated by thin cream grout lines. Stylized hand-painted video game texture with clear, readable shapes. Flat front-on orthographic view filling the entire frame edge to edge, evenly lit, no cast shadows, no perspective, no vignette. No text, no border, no watermark."
+  },
+  {
+    "id": "tex_ground",
+    "kind": "tile",
+    "prompt": "A seamless tileable top-down texture of fine sandy packed earth in a desert town street: soft dusty beige and pale ochre, small scattered pebbles and faint footprints, low contrast, no large stones and no distinct shapes that would make a repeating pattern obvious. Stylized hand-painted video game texture. Straight top-down orthographic view filling the entire frame edge to edge, evenly lit, no cast shadows, no perspective, no vignette. No text, no border, no watermark."
+  },
+  {
+    "id": "tex_paving",
+    "kind": "tile",
+    "prompt": "A seamless tileable top-down texture of an old town square paved with large worn rectangular sandstone flagstones of slightly varied sizes in warm cream and pale rose tones, thin sand-filled joints, gentle wear and a few small chips. Stylized hand-painted video game texture with clear, readable shapes and low contrast. Straight top-down orthographic view filling the entire frame edge to edge, evenly lit, no cast shadows, no perspective, no vignette. No text, no border, no watermark."
+  },
+  {
+    "id": "tex_fabric",
+    "kind": "tile",
+    "prompt": "A seamless tileable texture of hand block-printed Indian ajrakh cotton fabric: repeating geometric and floral motifs in deep indigo and madder red on an off-white ground. Stylized hand-painted video game texture with clear, readable shapes. Flat front-on view filling the entire frame edge to edge, evenly lit, no folds, no cast shadows, no perspective, no vignette. No text, no border, no watermark."
+  },
+  {
+    "id": "tex_carpet",
+    "kind": "decal",
+    "aspect": "2:3",
+    "prompt": "A complete hand-knotted Persian carpet seen from directly above, deep crimson field with a central navy-blue and gold medallion, ornate multi-band border, filling the entire frame edge to edge with no floor visible. Stylized hand-painted video game texture with clear, readable shapes, evenly lit, no cast shadows, no perspective. No text, no watermark."
+  },
+  {
+    "id": "tex_door",
+    "kind": "decal",
+    "aspect": "2:3",
+    "prompt": "A front-on view of an ornate carved teak wooden double door from a Rajasthani haveli, carved panels with Mughal pointed-arch motifs, rows of brass studs and two small iron ring handles. The door fills the entire frame edge to edge as a rectangle, no surrounding wall visible. Stylized hand-painted video game texture with clear, readable shapes, evenly lit, no cast shadows, no perspective. No text, no watermark."
+  },
+  {
+    "id": "tex_jali",
+    "kind": "decal",
+    "aspect": "2:3",
+    "prompt": "A front-on view of a carved red sandstone jali window screen from a Mughal palace: an intricate pierced geometric lattice of hexagons and eight-point stars, with the holes in the lattice filled with warm glowing orange lamplight from inside. The screen fills the entire frame edge to edge as a rectangle. Stylized hand-painted video game texture with clear, readable shapes, no perspective. No text, no watermark."
+  },
+  {
+    "id": "keyart_title",
+    "kind": "keyart",
+    "aspect": "16:9",
+    "size": "2K",
+    "refs": true,
+    "prompt": "Key art for a story-driven video game set in a medieval Indo-Persian fantasy world. A lone traveler in a deep indigo hooded cloak and saffron scarf stands on a sandstone street at dusk, looking toward a distant palace with white marble onion domes and slender minarets. Around the street: red sandstone havelis with carved jharokha balconies and pierced jali windows, market stalls under block-printed cloth awnings, date palms, and hanging brass lanterns glowing warm orange. The last orange sunlight catches the tops of the domes while the streets fall into violet-blue shadow and the first stars appear. Rendered as 3D pixel art with realistic soft lighting, long shadows and warm lantern glow, like a modern HD-2D game, with a rich but limited palette and crisp hard-edged pixels. Wide establishing shot from a slightly elevated angle. No text, no logo, no watermark."
+  },
+  {
+    "id": "portrait_player",
+    "kind": "portrait",
+    "refs": true,
+    "prompt": "A pixel art character portrait for a video game dialogue box: a young traveler with warm brown skin and determined dark eyes, wearing a deep indigo hooded cloak over a saffron scarf, a small brass pendant at the throat. Head and shoulders, turned three-quarters to the right. The face is lit on one side by warm orange lantern light and on the other by cool violet dusk light. Crisp hard-edged pixels at a low resolution, limited rich palette, plain dark plum background. No text, no border, no watermark."
+  },
+  {
+    "id": "portrait_lamplighter",
+    "kind": "portrait",
+    "refs": true,
+    "prompt": "A pixel art character portrait for a video game dialogue box: an elderly lamplighter with deep brown weathered skin, a neat white beard and kind wrinkled eyes, wearing a maroon turban and a saffron shawl, holding up a small glowing brass oil lamp near his face. Head and shoulders, turned three-quarters to the left. The face is lit warmly by the lamp from below with cool violet dusk light behind. Crisp hard-edged pixels at a low resolution, limited rich palette, plain dark plum background. No text, no border, no watermark."
+  },
+  {
+    "id": "tex_sandstone_gold",
+    "kind": "tile",
+    "prompt": "A seamless tileable texture of a Jaisalmer golden sandstone wall built from large smooth ashlar blocks in running bond, warm honey-gold and pale amber tones, fine chisel texture, thin sandy joints. Stylized hand-painted video game texture with clear, readable shapes. Flat front-on orthographic view filling the entire frame edge to edge, evenly lit, no cast shadows, no perspective, no vignette. No text, no border, no watermark."
+  },
+  {
+    "id": "tex_carved_relief",
+    "kind": "tile",
+    "prompt": "A seamless tileable texture of a carved golden sandstone temple wall: horizontal friezes of tiny carved niches, lotus petals, miniature pointed arches and bead mouldings stacked in bands, warm honey-gold stone with soft relief. Stylized hand-painted video game texture with clear, readable shapes. Flat front-on orthographic view filling the entire frame edge to edge, evenly lit, no cast shadows, no perspective, no vignette. No text, no border, no watermark."
+  },
+  {
+    "id": "tex_plaster_pink",
+    "kind": "tile",
+    "prompt": "A seamless tileable texture of a weathered lime-plaster wall washed in faded rose pink, soft mottling, hairline cracks, a few small patches where cream plaster shows through. Stylized hand-painted video game texture with clear, readable shapes. Flat front-on orthographic view filling the entire frame edge to edge, evenly lit, no cast shadows, no perspective, no vignette. No text, no border, no watermark."
+  },
+  {
+    "id": "tex_plaster_white",
+    "kind": "tile",
+    "prompt": "A seamless tileable texture of an old whitewashed lime-plaster wall, warm off-white with faint grey water stains streaking down, hairline cracks and soft mottling. Stylized hand-painted video game texture with clear, readable shapes. Flat front-on orthographic view filling the entire frame edge to edge, evenly lit, no cast shadows, no perspective, no vignette. No text, no border, no watermark."
+  },
+  {
+    "id": "tex_roof",
+    "kind": "tile",
+    "prompt": "A seamless tileable top-down texture of a flat lime-concrete rooftop terrace in an old Indian city: weathered warm grey-cream surface, patched repairs, faint stains and small cracks, low contrast. Stylized hand-painted video game texture with clear, readable shapes. Straight top-down orthographic view filling the entire frame edge to edge, evenly lit, no cast shadows, no perspective, no vignette. No text, no border, no watermark."
+  },
+  {
+    "id": "tex_terracotta_tiles",
+    "kind": "tile",
+    "prompt": "A seamless tileable texture of old terracotta roof tiles laid in overlapping curved rows, weathered orange-brown with dark moss in the gaps. Stylized hand-painted video game texture with clear, readable shapes. Flat view filling the entire frame edge to edge, evenly lit, no cast shadows, no perspective, no vignette. No text, no border, no watermark."
+  },
+  {
+    "id": "tex_marigold",
+    "kind": "tile",
+    "prompt": "A seamless tileable top-down texture of a dense heap of fresh orange and yellow marigold flowers and strung garlands, no gaps. Stylized hand-painted video game texture with clear, readable shapes. Flat view filling the entire frame edge to edge, evenly lit, no cast shadows, no perspective, no vignette. No text, no border, no watermark."
+  },
+  {
+    "id": "tex_brocade",
+    "kind": "tile",
+    "prompt": "A seamless tileable texture of Banarasi silk brocade: deep crimson silk woven with gold zari paisleys and small floral buttis. Stylized hand-painted video game texture with clear, readable shapes. Flat view filling the entire frame edge to edge, evenly lit, no cast shadows, no perspective, no vignette. No text, no border, no watermark."
+  },
+  {
+    "id": "tex_bandhani",
+    "kind": "tile",
+    "prompt": "A seamless tileable texture of bandhani tie-dyed cotton: tiny white and yellow dots arranged in circles and waves on deep red and magenta. Stylized hand-painted video game texture with clear, readable shapes. Flat view filling the entire frame edge to edge, evenly lit, no cast shadows, no perspective, no vignette. No text, no border, no watermark."
+  },
+  {
+    "id": "tex_bark",
+    "kind": "tile",
+    "prompt": "A seamless tileable texture of ancient banyan tree bark with twisted, fused aerial roots running vertically, grey-brown with deep crevices. Stylized hand-painted video game texture with clear, readable shapes. Flat view filling the entire frame edge to edge, evenly lit, no cast shadows, no perspective, no vignette. No text, no border, no watermark."
+  },
+  {
+    "id": "tex_foliage",
+    "kind": "tile",
+    "prompt": "A seamless tileable texture of dense banyan foliage: overlapping glossy dark-green oval leaves with lighter edges and deep shadows between them. Stylized hand-painted video game texture with clear, readable shapes. Flat view filling the entire frame edge to edge, evenly lit, no cast shadows, no perspective, no vignette. No text, no border, no watermark."
+  },
+  {
+    "id": "dec_window_shutters",
+    "kind": "decal",
+    "prompt": "A single carved sandstone window from an old Banaras house: painted turquoise wooden shutters half open, a carved stone frame with a small pointed arch on top, iron bars, a dark interior. The subject fills the entire frame edge to edge with no surrounding wall or background. Front-on orthographic view, evenly lit, no perspective. Stylized hand-painted video game texture with clear, readable shapes. No text, no watermark.",
+    "aspect": "2:3"
+  },
+  {
+    "id": "dec_window_arch",
+    "kind": "decal",
+    "prompt": "A tall pointed-arch window with a carved golden sandstone jali screen in a carved frame, warm lamplight glowing through the lattice. The subject fills the entire frame edge to edge with no surrounding wall or background. Front-on orthographic view, evenly lit, no perspective. Stylized hand-painted video game texture with clear, readable shapes. No text, no watermark.",
+    "aspect": "2:3"
+  },
+  {
+    "id": "dec_door_blue",
+    "kind": "decal",
+    "prompt": "An old painted wooden double door of a Banaras house: faded sky-blue planks with brass studs and ring handles, a carved stone frame with a small pointed arch, a marigold garland hung across the top, small painted flowers in red and yellow on the stone frame. The subject fills the entire frame edge to edge with no surrounding wall or background. Front-on orthographic view, evenly lit, no perspective. Stylized hand-painted video game texture with clear, readable shapes. No text, no watermark.",
+    "aspect": "2:3"
+  },
+  {
+    "id": "dec_door_green",
+    "kind": "decal",
+    "prompt": "An old painted wooden double door of a Banaras house: faded green planks, iron hasps, a carved sandstone frame with a lotus on the lintel, a string of mango leaves across the top. The subject fills the entire frame edge to edge with no surrounding wall or background. Front-on orthographic view, evenly lit, no perspective. Stylized hand-painted video game texture with clear, readable shapes. No text, no watermark.",
+    "aspect": "2:3"
+  },
+  {
+    "id": "dec_shopfront",
+    "kind": "decal",
+    "prompt": "A tiny open-fronted shop in an Indian bazaar lane at dusk: shelves of brass pots and spice jars, a low wooden counter with heaped spices, a hanging oil lamp, a striped cloth awning across the top. The subject fills the entire frame edge to edge with no surrounding wall or background. Front-on orthographic view, evenly lit, no perspective. Stylized hand-painted video game texture with clear, readable shapes. No text, no watermark.",
+    "aspect": "1:1"
+  },
+  {
+    "id": "dec_mural",
+    "kind": "decal",
+    "prompt": "A traditional painted wall mural on lime plaster from an old Banaras house: a decorated elephant with a rider and a small Ganesha, in red, yellow, green and indigo folk-art style, slightly faded and flaking. The subject fills the entire frame edge to edge with no surrounding wall or background. Front-on orthographic view, evenly lit, no perspective. Stylized hand-painted video game texture with clear, readable shapes. No text, no watermark.",
+    "aspect": "1:1"
+  },
+  {
+    "id": "dec_shrine_niche",
+    "kind": "decal",
+    "prompt": "A small wall shrine niche: a pointed-arch recess painted saffron with a tiny deity idol, a marigold garland, red powder marks and a glowing clay oil lamp. The subject fills the entire frame edge to edge with no surrounding wall or background. Front-on orthographic view, evenly lit, no perspective. Stylized hand-painted video game texture with clear, readable shapes. No text, no watermark.",
+    "aspect": "2:3"
+  },
+  {
+    "id": "dec_jharokha",
+    "kind": "decal",
+    "prompt": "A carved golden sandstone jharokha balcony window seen straight on, as on a Jaisalmer haveli: a curved bangaldar roof, carved brackets below, three jali panels and slender pillars. The subject fills the entire frame edge to edge with no surrounding wall or background. Front-on orthographic view, evenly lit, no perspective. Stylized hand-painted video game texture with clear, readable shapes. No text, no watermark.",
+    "aspect": "1:1"
+  }
+]

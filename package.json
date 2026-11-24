@@ -1,0 +1,26 @@
+{
+  "name": "pixel-story-game",
+  "private": true,
+  "version": "0.1.0",
+  "type": "module",
+  "scripts": {
+    "dev": "vite",
+    "build": "tsc --noEmit && vite build",
+    "preview": "vite preview",
+    "art:gen": "node art-src/gen.mjs",
+    "art:process": "node art-src/process.mjs",
+    "playtest": "node tools/playtest.mjs",
+    "art:concepts": "node art-src/gen.mjs --set=concepts && node art-src/concepts-gameres.mjs"
+  },
+  "dependencies": {
+    "inkjs": "^2.4.0",
+    "three": "^0.187.0"
+  },
+  "devDependencies": {
+    "@types/three": "^0.187.0",
+    "puppeteer-core": "^25.18.1",
+    "sharp": "^0.35.5",
+    "typescript": "^7.0.2",
+    "vite": "^8.3.8"
+  }
+}

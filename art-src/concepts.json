@@ -1,0 +1,157 @@
+[
+  {
+    "id": "concept_01_arrival_aarti_ghat",
+    "title": "1 · Arrival at Aarti Ghat",
+    "model": "pro",
+    "size": "2K",
+    "aspect": "16:9",
+    "refs": [
+      "riverfront",
+      "rituals"
+    ],
+    "extraRefs": [
+      "art-src/raw/portrait_player.png"
+    ],
+    "prompt": "In-game screenshot of a 3D pixel-art story adventure set in a fantasy city inspired by Banaras (Varanasi) on the Ganga, with Rajasthani haveli architecture. Camera: orthographic, elevated three-quarter view from just above the river, looking north at the main ghat. A wooden boat carrying a hooded traveler in a deep indigo cloak and saffron scarf touches the wet bottom step. Five priests in maroon shawls and gold dhotis stand on small square stone platforms at the water's edge, lifting tall tiered brass aarti lamps that blaze with fire and smoke. Behind them broad stone ghat steps rise away from the camera, crowded with pilgrims, marigold garlands and bamboo umbrellas. At the top of the steps a continuous wall of tall carved golden-sandstone havelis with jharokha balconies; a wide central stairway lined with flower sellers climbs into the city; a small shikhara temple stands to its right; further right an ornate many-storeyed palace rises straight off the steps. Floating leaf-cup diyas on the dark water, boats moored along the bank. Dusk: low golden sun from the left, long soft shadows across the steps, violet sky glow, warm firelight and smoke haze. Rendering style: real 3D with realistic, physically based lighting but rendered at low resolution so everything is built from crisp, hard-edged pixels, with subtle dark outlines and gentle dithering in gradients, like a modern HD-2D game. Rich but limited palette of saffron, marigold, sandstone gold, deep maroon, indigo and violet shadow. No text, no UI, no watermark."
+  },
+  {
+    "id": "concept_02_flower_stairs_chai_chowk",
+    "title": "2 · Flower Stairs up to Chai Chowk",
+    "model": "pro",
+    "size": "2K",
+    "aspect": "16:9",
+    "refs": [
+      "alleys",
+      "riverfront"
+    ],
+    "prompt": "In-game screenshot of a 3D pixel-art story adventure set in a fantasy city inspired by Banaras (Varanasi), with Rajasthani haveli architecture. Camera: orthographic, elevated three-quarter view looking north up a wide stone stairway that climbs from the river ghats into the city. Both sides of the stairs are lined with garland sellers under small cloth awnings, heaped with mountains of orange marigold and red rose garlands; pilgrims climb the steps. At the top the stairs open onto a small square (chowk): a glowing chai stall with a kettle on a coal stove, a resting cow, a peepal tree with a tiny red shrine at its base, tall carved havelis all around with jharokha balconies and laundry on the rooftops. Dusk: last golden sunlight on the upper storeys, the stairs in cool violet shadow, warm lamp-light from the stalls. Rendering style: real 3D with realistic, physically based lighting but rendered at low resolution so everything is built from crisp, hard-edged pixels, with subtle dark outlines and gentle dithering, like a modern HD-2D game. Rich but limited palette of saffron, marigold, sandstone gold, deep maroon, indigo and violet shadow. No text, no UI, no watermark."
+  },
+  {
+    "id": "concept_03_bazaar_gali",
+    "title": "3 · Bazaar Gali",
+    "model": "pro",
+    "size": "2K",
+    "aspect": "16:9",
+    "refs": [
+      "alleys",
+      "city-mood"
+    ],
+    "prompt": "In-game screenshot of a 3D pixel-art story adventure set in a fantasy city inspired by Banaras (Varanasi), with Rajasthani haveli architecture. Camera: orthographic, elevated three-quarter view looking north along a narrow, crowded market lane about six metres wide, walled in by tall carved golden-sandstone havelis whose balconies overhang the lane. Stalls press in from both sides: mounds of red, yellow and green spices, stacked brass pots, hanging Banarasi silk saris, glass bangles, trays of sweets; cloth awnings and strings of small lamps overhead; a dense crowd and a cow in the middle of the lane. At the far end of the lane rises the tall carved stone spire of an old temple, catching the last sunlight. On the right, a narrow side opening between two stalls reveals a glimpse of a lamp-lit courtyard where a dancer spins. Dusk: lane in deep warm shadow, pools of lamp-light, golden light only on the highest stones. Rendering style: real 3D with realistic, physically based lighting but rendered at low resolution so everything is built from crisp, hard-edged pixels, with subtle dark outlines and gentle dithering, like a modern HD-2D game. Rich but limited palette of saffron, marigold, sandstone gold, deep maroon, indigo and violet shadow. No text, no UI, no watermark."
+  },
+  {
+    "id": "concept_04_natya_haveli",
+    "title": "4 · Glimpse into the Natya Haveli",
+    "model": "pro",
+    "size": "2K",
+    "aspect": "16:9",
+    "refs": [
+      "alleys",
+      "rituals"
+    ],
+    "prompt": "In-game screenshot of a 3D pixel-art story adventure set in a fantasy city inspired by Banaras (Varanasi), with Rajasthani haveli architecture. Camera: orthographic, elevated three-quarter view. In the foreground a dim narrow lane ends at a carved pointed stone archway; through it we see into a haveli courtyard lit by oil lamps and hanging lanterns. A Kathak dancer in a flared red-and-gold costume spins on a small raised stone stage; tabla and sarangi players sit cross-legged on a Persian carpet beside her; an audience sits on carpets around the courtyard; onlookers lean out of carved jharokha balconies on the upper floors. Warm golden lamp-light inside the courtyard against cool violet dusk shadow in the lane. Rendering style: real 3D with realistic, physically based lighting but rendered at low resolution so everything is built from crisp, hard-edged pixels, with subtle dark outlines and gentle dithering, like a modern HD-2D game. Rich but limited palette of saffron, marigold, sandstone gold, deep maroon, indigo and violet shadow. No text, no UI, no watermark."
+  },
+  {
+    "id": "concept_05_lamp_gali_jali",
+    "title": "5 · Lamp Gali — the glowing jali",
+    "model": "pro",
+    "size": "2K",
+    "aspect": "16:9",
+    "refs": [
+      "alleys",
+      "rituals"
+    ],
+    "extraRefs": [
+      "art-src/raw/portrait_player.png"
+    ],
+    "prompt": "In-game screenshot of a 3D pixel-art story adventure set in a fantasy city inspired by Banaras (Varanasi). Camera: orthographic, elevated three-quarter view. A very narrow, dark lane only two metres wide between tall weathered plastered houses (faded blue and ochre walls, small wooden doors, a shrine niche with a single flame) dead-ends at a large carved stone jali screen. Through the screen's intricate geometric lattice pours intense warm orange light and drifting incense smoke from hundreds of oil lamps on the other side, throwing a lattice pattern of light onto the lane floor and walls. A hooded traveler in a deep indigo cloak and saffron scarf stands silhouetted before it. Mysterious, hushed. Rendering style: real 3D with realistic, physically based lighting but rendered at low resolution so everything is built from crisp, hard-edged pixels, with subtle dark outlines and gentle dithering, like a modern HD-2D game. Limited palette: deep indigo and violet darkness against blazing saffron light. No text, no UI, no watermark."
+  },
+  {
+    "id": "concept_06_courtyard_of_lamps",
+    "title": "6 · Courtyard of Lamps (stepwell)",
+    "model": "pro",
+    "size": "2K",
+    "aspect": "16:9",
+    "refs": [
+      "rituals",
+      "city-mood"
+    ],
+    "prompt": "In-game screenshot of a 3D pixel-art story adventure set in a fantasy city inspired by Banaras (Varanasi). Camera: orthographic, elevated three-quarter view looking down into the Courtyard of Lamps: a sunken stepwell (baori) inside a walled courtyard. Three square terraces of stone steps descend to a dark, still sacred pool with a tiny glowing shrine on an island at its centre. Thousands of small clay oil lamps line every step and every terrace; worshippers sit in rows on each level in prayer. A colossal ancient banyan tree grows from one corner of the courtyard, its aerial roots hanging down over the terraces into the water. Above, a U-shaped upper gallery with carved arches runs around three sides of the courtyard, where more figures hold lamps. Thick incense smoke fills the well and glows orange; the flames are reflected in the black water. Mystical, sacred, otherworldly; faint moonlight from above mixes with the firelight. Rendering style: real 3D with realistic, physically based lighting but rendered at low resolution so everything is built from crisp, hard-edged pixels, with subtle dark outlines and gentle dithering, like a modern HD-2D game. Limited palette of saffron, amber and gold firelight against deep indigo and violet shadow. No text, no UI, no watermark."
+  },
+  {
+    "id": "concept_07_temple_chowk",
+    "title": "7 · Temple Chowk and the Old Temple",
+    "model": "pro",
+    "size": "2K",
+    "aspect": "16:9",
+    "refs": [
+      "city-mood",
+      "rituals"
+    ],
+    "prompt": "In-game screenshot of a 3D pixel-art story adventure set in a fantasy city inspired by Banaras (Varanasi). Camera: orthographic, elevated three-quarter view looking north across a stone forecourt at the top of the city towards an old Nagara-style temple with a tall, intricately carved shikhara spire. Rows of brass bells hang across the entrance; a small pavilion shelters a stone Nandi bull; pilgrims ring bells and carry offerings; oil lamps flicker on the steps. The last violet light of dusk behind the spire, the first stars, warm lamp-light below. Rendering style: real 3D with realistic, physically based lighting but rendered at low resolution so everything is built from crisp, hard-edged pixels, with subtle dark outlines and gentle dithering, like a modern HD-2D game. Rich but limited palette of saffron, marigold, sandstone gold, deep maroon, indigo and violet shadow. No text, no UI, no watermark."
+  },
+  {
+    "id": "concept_08_raja_ghat_palace",
+    "title": "8 · Raja's Ghat and Palace",
+    "model": "pro",
+    "size": "2K",
+    "aspect": "16:9",
+    "refs": [
+      "city-mood",
+      "riverfront"
+    ],
+    "prompt": "In-game screenshot of a 3D pixel-art story adventure set in a fantasy city inspired by Banaras (Varanasi). Camera: orthographic, elevated three-quarter view from the river looking north. An ornate, many-storeyed riverside palace rises straight from the ghat steps: stacked carved balconies, small domes and chhatris, rows of pointed arches, all in golden sandstone; at its base a dark vaulted tunnel entrance leads up into the city. On the steps below, sadhus in saffron sit under large bamboo umbrellas beside two small stone chhatri pavilions; boats are moored at the bottom step. Low golden sun raking across the facade, long shadows, warm haze over the water. Rendering style: real 3D with realistic, physically based lighting but rendered at low resolution so everything is built from crisp, hard-edged pixels, with subtle dark outlines and gentle dithering, like a modern HD-2D game. Rich but limited palette of saffron, marigold, sandstone gold, deep maroon, indigo and violet shadow. No text, no UI, no watermark."
+  },
+  {
+    "id": "concept_09a_overview_dusk",
+    "title": "9a · The whole slice — dusk",
+    "model": "pro",
+    "size": "2K",
+    "aspect": "16:9",
+    "refs": [
+      "city-mood"
+    ],
+    "extraRefs": [
+      "playtest-output/map_clean.png"
+    ],
+    "prompt": "Among the attached images is a top-down layout plan drawn as flat coloured tiles on a grid, with a blue river strip along the bottom. Build exactly that layout as a 3D city district and show it from a high three-quarter aerial view, camera above the river looking north, so the whole district fits in frame. How to read the plan: the blue strip is the Ganga river with small boats; the beige horizontal bands above it are wide stone ghat steps climbing up from the water, with five small square aarti platforms at the water's edge in the middle; the chevron-marked strips are stairways climbing into the city (a wide central stairway lined with orange flower stalls, a narrow one on the left); each coloured block is an individual 2- to 6-storey house — the block colour is its plaster colour (blue-washed, ochre, rose, golden sandstone, whitewash) — with flat roof terraces, laundry and small domed chhatris; the light lanes between blocks are narrow galis; the large dark maroon blocks on the right are an ornate many-storeyed palace rising straight off the ghat steps with an arched tunnel beside it, and the dark block just right of the central stairway is a small shikhara temple; the square at the top left is the Courtyard of Lamps — a sunken stepwell with three tiers of steps down to a dark pool with a tiny island shrine, a giant banyan in its corner, an arcaded gallery around it, every step lined with glowing oil lamps and filled with smoke; the light square in the centre is a chowk with a peepal tree; the lane lined with orange squares running north from it is the bazaar; the light rectangle on the right inside a dark ring is a haveli courtyard with a small stage; the small courtyard at the far right with orange squares holds handlooms; the plaza at the top centre is a temple forecourt with a tall carved shikhara temple spire on the top edge. Architecture: Banaras ghats and Rajasthani havelis — carved golden sandstone, jharokha balconies, jali screens. Rendering style: real 3D with realistic, physically based lighting but rendered at low resolution so everything is built from crisp, hard-edged pixels, with subtle dark outlines and gentle dithering, like a modern HD-2D game diorama. No text, no labels, no grid lines, no UI, no watermark. Lighting: dusk, low golden sun from the left raking across the rooftops, long shadows, violet sky reflected in the river, the aarti fires burning at the water's edge, warm lamps beginning to glow in the lanes and the stepwell."
+  },
+  {
+    "id": "concept_09b_overview_night",
+    "title": "9b · The whole slice — blue hour",
+    "model": "pro",
+    "size": "2K",
+    "aspect": "16:9",
+    "refs": [
+      "city-mood"
+    ],
+    "extraRefs": [
+      "playtest-output/map_clean.png"
+    ],
+    "prompt": "Among the attached images is a top-down layout plan drawn as flat coloured tiles on a grid, with a blue river strip along the bottom. Build exactly that layout as a 3D city district and show it from a high three-quarter aerial view, camera above the river looking north, so the whole district fits in frame. How to read the plan: the blue strip is the Ganga river with small boats; the beige horizontal bands above it are wide stone ghat steps climbing up from the water, with five small square aarti platforms at the water's edge in the middle; the chevron-marked strips are stairways climbing into the city (a wide central stairway lined with orange flower stalls, a narrow one on the left); each coloured block is an individual 2- to 6-storey house — the block colour is its plaster colour (blue-washed, ochre, rose, golden sandstone, whitewash) — with flat roof terraces, laundry and small domed chhatris; the light lanes between blocks are narrow galis; the large dark maroon blocks on the right are an ornate many-storeyed palace rising straight off the ghat steps with an arched tunnel beside it, and the dark block just right of the central stairway is a small shikhara temple; the square at the top left is the Courtyard of Lamps — a sunken stepwell with three tiers of steps down to a dark pool with a tiny island shrine, a giant banyan in its corner, an arcaded gallery around it, every step lined with glowing oil lamps and filled with smoke; the light square in the centre is a chowk with a peepal tree; the lane lined with orange squares running north from it is the bazaar; the light rectangle on the right inside a dark ring is a haveli courtyard with a small stage; the small courtyard at the far right with orange squares holds handlooms; the plaza at the top centre is a temple forecourt with a tall carved shikhara temple spire on the top edge. Architecture: Banaras ghats and Rajasthani havelis — carved golden sandstone, jharokha balconies, jali screens. Rendering style: real 3D with realistic, physically based lighting but rendered at low resolution so everything is built from crisp, hard-edged pixels, with subtle dark outlines and gentle dithering, like a modern HD-2D game diorama. No text, no labels, no grid lines, no UI, no watermark. Lighting: blue hour just after sunset, deep indigo sky and river, the city lit only by warm lamps and fires: the aarti platforms blazing at the water, strings of lamps in the bazaar, and the Courtyard of Lamps glowing like a furnace of light in the top left."
+  },
+  {
+    "id": "concept_10_character_lineup",
+    "title": "10 · Characters",
+    "model": "pro",
+    "size": "2K",
+    "aspect": "16:9",
+    "extraRefs": [
+      "art-src/raw/portrait_player.png",
+      "art-src/raw/portrait_lamplighter.png"
+    ],
+    "prompt": "Character lineup for a 3D pixel-art story game set in a fantasy Banaras: six characters standing side by side at consistent scale on a plain dark plum background, full body, front three-quarter view, each rendered as a stylised low-poly 3D model shown in crisp pixel art with soft warm key light. Left to right: (1) the hooded traveler — young, warm brown skin, deep indigo hooded cloak, saffron scarf, small brass pendant; (2) an aarti priest — bare-chested with a maroon shawl and gold dhoti, holding a tall tiered brass lamp; (3) a Kathak dancer — flared red-and-gold anarkali costume, ankle bells, mid-pose; (4) the old lamplighter — white beard, maroon turban, saffron shawl, small brass oil lamp; (5) a flower seller — marigold-yellow sari, basket of garlands on her hip; (6) a sadhu — ash-grey skin markings, saffron robes, long matted hair, a staff. The first and fourth characters should match the attached portraits. No text, no labels, no watermark."
+  },
+  {
+    "id": "sky_panorama",
+    "title": "Sky panorama (360° backdrop)",
+    "group": "sky",
+    "model": "flash",
+    "size": "4K",
+    "aspect": "8:1",
+    "refs": [
+      "city-mood",
+      "riverfront"
+    ],
+    "prompt": "A seamless 360-degree panoramic backdrop strip for a video game skybox, painted as rich pixel art. A mythical holy city on a great river at the moment after sunset. The horizon sits in the lower third of the image. Along the horizon, far away and hazy, rise colossal impossible temple spires several times taller than any real building, golden domes, palaces stacked on palaces, towers linked by bridges, and on one stretch the open river with sandbanks and distant boats. Above, a deep gradient sky from glowing gold and rose at the horizon to violet and indigo overhead, a huge pale moon, the first stars, and hundreds of tiny glowing sky lanterns drifting upward. Soft volumetric haze and light rays. Wide, epic, mystical, Indian fantasy. The left and right edges must join seamlessly. No text, no frame, no watermark."
+  }
+]

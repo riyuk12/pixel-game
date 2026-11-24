@@ -1,0 +1,8 @@
+node_modules
+dist
+art-src/preview
+playtest-output
+# Original Gemini images (237 MB) stay on this Mac; the game uses the processed copies in public/
+art-src/raw/*.png
+.DS_Store
+.vercel

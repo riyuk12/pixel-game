@@ -1,0 +1,179 @@
+{
+  "boards": {
+    "riverfront": {
+      "title": "Ghats & the river",
+      "note": "The Ganga waterfront: long stone steps, boats, crowds, low golden sun and haze."
+    },
+    "alleys": {
+      "title": "Alleys & havelis",
+      "note": "Narrow lanes walled by carved golden sandstone, jharokhas, shrine niches, everyday life."
+    },
+    "rituals": {
+      "title": "Rituals & firelight",
+      "note": "Aarti flames, seated diya gatherings, smoke catching warm light."
+    },
+    "city-mood": {
+      "title": "City mood",
+      "note": "Overall density, verticality and colour temperature of the city."
+    },
+    "playtest": {
+      "title": "Playtest feedback",
+      "note": "Screenshots from playing the build, with what needs to change."
+    }
+  },
+  "images": [
+    {
+      "file": "images/2026-11-24_01_simonetti_city.png",
+      "added": "2026-11-24",
+      "boards": [
+        "city-mood",
+        "alleys"
+      ],
+      "credit": "Marc Simonetti (found on Pinterest) — copyrighted; mood reference only",
+      "takeaways": [
+        "Looking down into a sunlit plaza walled in by towering, over-carved architecture",
+        "One hot amber key light with deep brown shadow; almost monochrome warm palette",
+        "Stairs, balconies and arches stacked vertically; crowd pouring in from a side street"
+      ]
+    },
+    {
+      "file": "images/2026-11-24_02_jaisalmer_haveli_lane.png",
+      "added": "2026-11-24",
+      "boards": [
+        "alleys"
+      ],
+      "credit": "Photo of a Jaisalmer haveli lane (Pinterest)",
+      "takeaways": [
+        "Golden sandstone, every surface carved: jharokhas, jali screens, brackets, awnings",
+        "Lane life at street level: women on a plinth, a shrine niche, a cow, goods stacked by doors",
+        "Narrow vertical slot of light; buildings overhang the lane"
+      ]
+    },
+    {
+      "file": "images/2026-11-24_03_diya_prayer_gathering.png",
+      "added": "2026-11-24",
+      "boards": [
+        "rituals"
+      ],
+      "credit": "Photo of a diya prayer gathering (Pinterest)",
+      "takeaways": [
+        "Hundreds seated in rows on the ground, each with small oil lamps in front",
+        "Thick smoke under a great tree turns the whole space into glowing orange haze",
+        "Light comes from below and from the crowd itself, not from the sky"
+      ]
+    },
+    {
+      "file": "images/2026-11-24_04_varanasi_ghats.png",
+      "added": "2026-11-24",
+      "boards": [
+        "riverfront",
+        "city-mood"
+      ],
+      "credit": "Varanasi ghats render (Pinterest)",
+      "takeaways": [
+        "Ghats run along the river for as far as the eye sees; temples and towers on top",
+        "Steps crowded with people; long shadows across the steps from a low sun",
+        "Boats moored and drifting, floating diyas, glittering water and haze"
+      ]
+    },
+    {
+      "file": "images/2026-11-24_05_ganga_aarti.png",
+      "added": "2026-11-24",
+      "boards": [
+        "rituals",
+        "riverfront"
+      ],
+      "credit": "Photo of the Ganga aarti (Pinterest)",
+      "takeaways": [
+        "A row of priests on raised platforms lifting tiered brass lamps in unison",
+        "Maroon and gold dhotis/shawls; smoke lit from inside by the flames",
+        "Small diyas lining the platform edges; dark night background"
+      ]
+    },
+    {
+      "file": "images/2026-11-24_06_playtest_roofs_all_same.png",
+      "added": "2026-11-24",
+      "boards": [
+        "playtest"
+      ],
+      "credit": "In-game screenshot (Rajat's playtest)",
+      "takeaways": [
+        "Roofs read as one repeated tile: flat slabs ringed by identical orange merlons",
+        "Walls rising above neighbouring roofs are blank — they need windows, jalis, jharokhas",
+        "Roofscape needs layers: rooftop rooms, varied parapets, clutter, less orange trim"
+      ]
+    },
+    {
+      "file": "images/2026-11-24_07_playtest_cut_artifacts.png",
+      "added": "2026-11-24",
+      "boards": [
+        "playtest"
+      ],
+      "credit": "In-game screenshot (Rajat's playtest)",
+      "takeaways": [
+        "Plane cut leaves jharokhas, hoods, frames and awnings floating half-dithered",
+        "Cut a blocking building as one object (everything above its stub height), never per-pixel slices",
+        "Keep everything behind the player: split big landmarks into pieces instead"
+      ]
+    },
+    {
+      "file": "images/2026-11-24_08_playtest_cut_slice.png",
+      "added": "2026-11-24",
+      "boards": [
+        "playtest"
+      ],
+      "credit": "In-game screenshot (Rajat's playtest)",
+      "takeaways": [
+        "Per-pixel plane cut leaves a thin dithered slice through a house and floating window frames",
+        "Same fix as 07: cut whole buildings (above their own stub height) as one object"
+      ]
+    },
+    {
+      "file": "images/2026-11-24_09_playtest_tunnel_glitch.png",
+      "added": "2026-11-24",
+      "boards": [
+        "playtest"
+      ],
+      "credit": "In-game screenshot (Rajat's playtest)",
+      "takeaways": [
+        "Long diagonal shadow streaks on the palace face with no visible caster: cut pieces were still casting shadows",
+        "Cut state flickers as the player walks under the bridge — needs a hold before restoring"
+      ]
+    },
+    {
+      "file": "images/2026-11-24_10_playtest_big_building.png",
+      "added": "2026-11-24",
+      "boards": [
+        "playtest"
+      ],
+      "credit": "In-game screenshot (Rajat's playtest)",
+      "takeaways": [
+        "A big haveli seen whole from the lane — the reference for what should stay when walking behind it"
+      ]
+    },
+    {
+      "file": "images/2026-11-24_11_playtest_whole_building_gone.png",
+      "added": "2026-11-24",
+      "boards": [
+        "playtest"
+      ],
+      "credit": "In-game screenshot (Rajat's playtest)",
+      "takeaways": [
+        "Whole-building cut is too blunt for big buildings: walking behind one made all of it vanish",
+        "Cut only the part that blocks the view (per 2 m cell), keep the rest"
+      ]
+    },
+    {
+      "file": "images/2026-11-24_12_playtest_wall_ahead_cut.png",
+      "added": "2026-11-24",
+      "boards": [
+        "playtest"
+      ],
+      "credit": "In-game screenshot (Rajat's playtest)",
+      "takeaways": [
+        "The building the player stands in front of (beyond them) got cut, exposing a dark interior wall",
+        "Sight lines must only start from open ground around the player, never from inside a building"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,155 @@
+[
+  {
+    "id": "char_design_01_traveler",
+    "title": "The Traveler (player)",
+    "group": "characters",
+    "model": "pro",
+    "size": "2K",
+    "aspect": "16:9",
+    "refs": [
+      "rituals"
+    ],
+    "extraRefs": [
+      "art-src/raw/concept_10_character_lineup.png",
+      "art-src/raw/portrait_player.png"
+    ],
+    "prompt": "Character design turnaround sheet for a 3D pixel-art story game set in a fantasy city inspired by Banaras. One character shown at the same scale in four full-body views side by side — front, three-quarter, side profile and back — plus a small head close-up and a row of six colour swatches along the bottom, on a plain flat warm-grey background. Stylised proportions about six heads tall with a clear, readable silhouette, designed so it can be built as a low-poly 3D model. Crisp pixel art with soft warm key light, consistent in style with the attached character lineup. No text, no labels, no watermark. The character: a young traveler with warm brown skin and dark curly hair, a deep indigo hooded travelling cloak, a saffron scarf wrapped at the neck, a small brass pendant, a simple cream kurta, brown trousers, leather sandals and a cloth shoulder bag."
+  },
+  {
+    "id": "char_design_02_lamplighter",
+    "title": "The Old Lamplighter",
+    "group": "characters",
+    "model": "pro",
+    "size": "2K",
+    "aspect": "16:9",
+    "refs": [
+      "rituals"
+    ],
+    "extraRefs": [
+      "art-src/raw/concept_10_character_lineup.png",
+      "art-src/raw/portrait_lamplighter.png"
+    ],
+    "prompt": "Character design turnaround sheet for a 3D pixel-art story game set in a fantasy city inspired by Banaras. One character shown at the same scale in four full-body views side by side — front, three-quarter, side profile and back — plus a small head close-up and a row of six colour swatches along the bottom, on a plain flat warm-grey background. Stylised proportions about six heads tall with a clear, readable silhouette, designed so it can be built as a low-poly 3D model. Crisp pixel art with soft warm key light, consistent in style with the attached character lineup. No text, no labels, no watermark. The character: an elderly man with deep brown weathered skin and a neat white beard, a maroon turban, a saffron shawl over a dark kurta, a white dhoti, carrying a long brass lamp-lighting pole with a hook and a small brass oil lamp."
+  },
+  {
+    "id": "char_design_03_aarti_priest",
+    "title": "Aarti Priest",
+    "group": "characters",
+    "model": "pro",
+    "size": "2K",
+    "aspect": "16:9",
+    "refs": [
+      "rituals"
+    ],
+    "extraRefs": [
+      "art-src/raw/concept_10_character_lineup.png"
+    ],
+    "prompt": "Character design turnaround sheet for a 3D pixel-art story game set in a fantasy city inspired by Banaras. One character shown at the same scale in four full-body views side by side — front, three-quarter, side profile and back — plus a small head close-up and a row of six colour swatches along the bottom, on a plain flat warm-grey background. Stylised proportions about six heads tall with a clear, readable silhouette, designed so it can be built as a low-poly 3D model. Crisp pixel art with soft warm key light, consistent in style with the attached character lineup. No text, no labels, no watermark. The character: a young priest with a shaved head and a small topknot, a sandalwood tilak on the forehead, a maroon silk shawl draped over one shoulder, a gold-bordered cream dhoti, bare feet, holding a tall tiered brass aarti lamp."
+  },
+  {
+    "id": "char_design_04_kathak_dancer",
+    "title": "Kathak Dancer",
+    "group": "characters",
+    "model": "pro",
+    "size": "2K",
+    "aspect": "16:9",
+    "refs": [
+      "rituals"
+    ],
+    "extraRefs": [
+      "art-src/raw/concept_10_character_lineup.png"
+    ],
+    "prompt": "Character design turnaround sheet for a 3D pixel-art story game set in a fantasy city inspired by Banaras. One character shown at the same scale in four full-body views side by side — front, three-quarter, side profile and back — plus a small head close-up and a row of six colour swatches along the bottom, on a plain flat warm-grey background. Stylised proportions about six heads tall with a clear, readable silhouette, designed so it can be built as a low-poly 3D model. Crisp pixel art with soft warm key light, consistent in style with the attached character lineup. No text, no labels, no watermark. The character: a young woman in a flared red-and-gold anarkali with a sheer dupatta, gold jewellery, ghungroo bells on both ankles, hair in a long braid with jasmine; one of the views shows her mid-spin with the skirt flaring."
+  },
+  {
+    "id": "char_design_05_flower_seller",
+    "title": "Flower Seller",
+    "group": "characters",
+    "model": "pro",
+    "size": "2K",
+    "aspect": "16:9",
+    "refs": [
+      "rituals"
+    ],
+    "extraRefs": [
+      "art-src/raw/concept_10_character_lineup.png"
+    ],
+    "prompt": "Character design turnaround sheet for a 3D pixel-art story game set in a fantasy city inspired by Banaras. One character shown at the same scale in four full-body views side by side — front, three-quarter, side profile and back — plus a small head close-up and a row of six colour swatches along the bottom, on a plain flat warm-grey background. Stylised proportions about six heads tall with a clear, readable silhouette, designed so it can be built as a low-poly 3D model. Crisp pixel art with soft warm key light, consistent in style with the attached character lineup. No text, no labels, no watermark. The character: a middle-aged woman in a marigold-yellow cotton sari with a red border, glass bangles and a nose ring, a wide flat basket of orange marigold garlands on her hip."
+  },
+  {
+    "id": "char_design_06_sadhu",
+    "title": "Sadhu",
+    "group": "characters",
+    "model": "pro",
+    "size": "2K",
+    "aspect": "16:9",
+    "refs": [
+      "rituals"
+    ],
+    "extraRefs": [
+      "art-src/raw/concept_10_character_lineup.png"
+    ],
+    "prompt": "Character design turnaround sheet for a 3D pixel-art story game set in a fantasy city inspired by Banaras. One character shown at the same scale in four full-body views side by side — front, three-quarter, side profile and back — plus a small head close-up and a row of six colour swatches along the bottom, on a plain flat warm-grey background. Stylised proportions about six heads tall with a clear, readable silhouette, designed so it can be built as a low-poly 3D model. Crisp pixel art with soft warm key light, consistent in style with the attached character lineup. No text, no labels, no watermark. The character: a lean old ascetic with ash-smeared grey skin, long matted grey hair piled on his head, saffron robes, rudraksha bead necklaces, a wooden staff and a small brass water pot."
+  },
+  {
+    "id": "char_design_07_chai_wallah",
+    "title": "Chai Wallah",
+    "group": "characters",
+    "model": "pro",
+    "size": "2K",
+    "aspect": "16:9",
+    "refs": [
+      "rituals"
+    ],
+    "extraRefs": [
+      "art-src/raw/concept_10_character_lineup.png"
+    ],
+    "prompt": "Character design turnaround sheet for a 3D pixel-art story game set in a fantasy city inspired by Banaras. One character shown at the same scale in four full-body views side by side — front, three-quarter, side profile and back — plus a small head close-up and a row of six colour swatches along the bottom, on a plain flat warm-grey background. Stylised proportions about six heads tall with a clear, readable silhouette, designed so it can be built as a low-poly 3D model. Crisp pixel art with soft warm key light, consistent in style with the attached character lineup. No text, no labels, no watermark. The character: a cheerful young man in a sleeveless vest over a checked lungi, a cloth on his shoulder, pouring tea from a dented brass kettle into small clay cups."
+  },
+  {
+    "id": "char_design_08_boatman",
+    "title": "Boatman",
+    "group": "characters",
+    "model": "pro",
+    "size": "2K",
+    "aspect": "16:9",
+    "refs": [
+      "rituals"
+    ],
+    "extraRefs": [
+      "art-src/raw/concept_10_character_lineup.png"
+    ],
+    "prompt": "Character design turnaround sheet for a 3D pixel-art story game set in a fantasy city inspired by Banaras. One character shown at the same scale in four full-body views side by side — front, three-quarter, side profile and back — plus a small head close-up and a row of six colour swatches along the bottom, on a plain flat warm-grey background. Stylised proportions about six heads tall with a clear, readable silhouette, designed so it can be built as a low-poly 3D model. Crisp pixel art with soft warm key light, consistent in style with the attached character lineup. No text, no labels, no watermark. The character: a wiry boatman (manjhi) in a white vest and rolled-up dhoti, a checked red gamchha tied as a headband, holding a long wooden oar."
+  },
+  {
+    "id": "char_design_09_silk_weaver",
+    "title": "Silk Weaver",
+    "group": "characters",
+    "model": "pro",
+    "size": "2K",
+    "aspect": "16:9",
+    "refs": [
+      "rituals"
+    ],
+    "extraRefs": [
+      "art-src/raw/concept_10_character_lineup.png"
+    ],
+    "prompt": "Character design turnaround sheet for a 3D pixel-art story game set in a fantasy city inspired by Banaras. One character shown at the same scale in four full-body views side by side — front, three-quarter, side profile and back — plus a small head close-up and a row of six colour swatches along the bottom, on a plain flat warm-grey background. Stylised proportions about six heads tall with a clear, readable silhouette, designed so it can be built as a low-poly 3D model. Crisp pixel art with soft warm key light, consistent in style with the attached character lineup. No text, no labels, no watermark. The character: an elderly woman in an indigo cotton sari and round spectacles, holding a wooden shuttle and a skein of gold zari thread."
+  },
+  {
+    "id": "char_design_10_townsfolk",
+    "title": "Townsfolk & pilgrims",
+    "group": "characters",
+    "model": "pro",
+    "size": "2K",
+    "aspect": "16:9",
+    "refs": [
+      "rituals",
+      "alleys"
+    ],
+    "extraRefs": [
+      "art-src/raw/concept_10_character_lineup.png"
+    ],
+    "prompt": "Character design sheet for a 3D pixel-art story game set in a fantasy city inspired by Banaras: ten varied background townsfolk and pilgrims standing in a row at the same scale, full body, front three-quarter view, on a plain flat warm-grey background — an elderly pilgrim woman in a white sari, a boy holding a paper kite, a shopkeeper with a ledger, a brass-beater with a small hammer, a dyer with indigo-stained arms carrying dyed cloth, a woman carrying a brass water pot on her head, a tabla player, a young pilgrim couple, a man leading a cow on a rope, a girl carrying marigold garlands. Stylised proportions about six heads tall, clear silhouettes, designed to be built as low-poly 3D models. Crisp pixel art with soft warm key light, consistent in style with the attached character lineup. No text, no labels, no watermark."
+  }
+]

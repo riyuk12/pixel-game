@@ -1,0 +1,144 @@
+<!doctype html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Concept Frames</title>
+    <link rel="icon" href="data:," />
+    <link rel="preconnect" href="https://fonts.googleapis.com" />
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+    <link href="https://fonts.googleapis.com/css2?family=Pixelify+Sans:wght@400;600&family=Inter:wght@400;500&display=swap" rel="stylesheet" />
+    <style>
+      :root {
+        --bg: #140e22;
+        --panel: #1d1530;
+        --line: #36284a;
+        --ink: #f1e4c6;
+        --dim: #a8987c;
+        --saffron: #f0a92b;
+      }
+      body {
+        margin: 0;
+        background: var(--bg);
+        color: var(--ink);
+        font: 15px/1.5 Inter, system-ui, sans-serif;
+      }
+      main {
+        max-width: 1280px;
+        margin: 0 auto;
+        padding: 24px 16px 64px;
+      }
+      h1,
+      h2 {
+        font-family: 'Pixelify Sans', monospace;
+        font-weight: 600;
+        color: var(--saffron);
+        margin: 0;
+      }
+      h1 {
+        font-size: 32px;
+      }
+      h2 {
+        font-size: 22px;
+      }
+      .sub {
+        color: var(--dim);
+        margin: 4px 0 20px;
+      }
+      .bar {
+        display: flex;
+        flex-wrap: wrap;
+        gap: 10px;
+        align-items: center;
+        margin-bottom: 24px;
+      }
+      button {
+        font: inherit;
+        color: var(--ink);
+        background: var(--panel);
+        border: 1px solid var(--line);
+        padding: 6px 14px;
+        cursor: pointer;
+      }
+      button[aria-pressed='true'] {
+        border-color: var(--saffron);
+        color: var(--saffron);
+      }
+      article {
+        margin: 0 0 40px;
+      }
+      article header {
+        display: flex;
+        justify-content: space-between;
+        align-items: baseline;
+        gap: 12px;
+        flex-wrap: wrap;
+        margin-bottom: 8px;
+      }
+      article img {
+        display: block;
+        width: 100%;
+        height: auto;
+        border: 1px solid var(--line);
+        background: #000;
+      }
+      .gameres img {
+        image-rendering: pixelated;
+      }
+      details {
+        margin-top: 8px;
+        color: var(--dim);
+        font-size: 13px;
+      }
+      summary {
+        cursor: pointer;
+      }
+      a {
+        color: var(--saffron);
+      }
+    </style>
+  </head>
+  <body>
+    <main>
+      <h1>Concept Frames</h1>
+      <p class="sub">
+        Gemini (Nano Banana Pro) paintings of key places on the <a href="/map.html">map plan</a>, drawn as if they were in-game screenshots, using the
+        <a href="/moodboard.html">mood boards</a> as style references. Source: <code>art-src/concepts.json</code>.
+      </p>
+      <div class="bar">
+        <span>Show:</span>
+        <button data-mode="full" aria-pressed="true">Concept (2K)</button>
+        <button data-mode="gameres" aria-pressed="false">At game resolution (480×270)</button>
+      </div>
+      <div id="list"></div>
+    </main>
+    <script type="module">
+      const [concepts, characters] = await Promise.all(['/art-src/concepts.json', '/art-src/characters.json'].map((u) => fetch(u).then((r) => r.json())));
+      const list = document.getElementById('list');
+      const esc = (s) => s.replace(/&/g, '&amp;').replace(/</g, '&lt;');
+      const heading = (t, note) => {
+        const h = document.createElement('div');
+        h.innerHTML = `<h1 style="font-size:26px;margin:32px 0 4px">${t}</h1><p class="sub">${note}</p>`;
+        list.appendChild(h);
+      };
+      heading('Places', 'Key locations on the map, painted as in-game screenshots.');
+      for (const c of [...concepts, { divider: true }, ...characters]) {
+        if (c.divider) {
+          heading('Characters', 'Design sheets (front · three-quarter · side · back) — the reference for the cast. Source: <code>art-src/characters.json</code>.');
+          continue;
+        }
+        const a = document.createElement('article');
+        a.innerHTML = `<header><h2>${esc(c.title)}</h2></header>
+          <img data-full="/art-src/raw/${c.id}.png" data-gameres="/concepts/gameres/${c.id}.png" src="/art-src/raw/${c.id}.png" alt="${esc(c.title)}" loading="lazy" />
+          <details><summary>Prompt</summary><p>${esc(c.prompt)}</p></details>`;
+        list.appendChild(a);
+      }
+      const setMode = (mode) => {
+        document.body.classList.toggle('gameres', mode === 'gameres');
+        document.querySelectorAll('img[data-full]').forEach((img) => (img.src = img.dataset[mode === 'gameres' ? 'gameres' : 'full']));
+        document.querySelectorAll('button[data-mode]').forEach((b) => b.setAttribute('aria-pressed', String(b.dataset.mode === mode)));
+      };
+      document.querySelectorAll('button[data-mode]').forEach((b) => b.addEventListener('click', () => setMode(b.dataset.mode)));
+    </script>
+  </body>
+</html>

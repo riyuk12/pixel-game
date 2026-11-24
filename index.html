@@ -1,0 +1,38 @@
+<!doctype html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>The Last Lamplighter</title>
+    <link rel="icon" href="data:," />
+    <link rel="preconnect" href="https://fonts.googleapis.com" />
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+    <link href="https://fonts.googleapis.com/css2?family=Pixelify+Sans:wght@400;600&display=swap" rel="stylesheet" />
+  </head>
+  <body>
+    <div id="app"></div>
+
+    <div id="title">
+      <img src="/ui/title_banaras.png" alt="" />
+      <div class="title-text">
+        <h1>The Last Lamplighter</h1>
+        <p class="blink">Press Enter</p>
+      </div>
+    </div>
+
+    <div id="loading">Loading…</div>
+    <div id="prompt" hidden></div>
+    <div id="hud" hidden>WASD: move · Shift: run · Q/E or drag: turn 45° · drag up/down: tilt · wheel: zoom · R: reset view · F: look / talk · 1–9: choose</div>
+
+    <div id="dialogue" hidden>
+      <img id="portrait" alt="" hidden />
+      <div class="body">
+        <div id="speaker" hidden></div>
+        <div id="text"></div>
+        <div id="choices"></div>
+      </div>
+    </div>
+
+    <script type="module" src="/src/main.ts"></script>
+  </body>
+</html>
